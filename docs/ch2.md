@@ -70,11 +70,11 @@ If you ask the business managers, they’ll often say that it’s more important
 
 You may not find this argument convincing. After all, there’s no such thing as a program that is impossible to change. However, there are systems that are practically impossible to change, because the cost of change exceeds the benefit of change. Many systems reach that point in some of their features or configurations.
 
-> 当然，上面的逻辑论断可能不足以说服大家，修改的。但是，现实中有一些系统确实无法更改，因为其变更实施的成本会远远超过变更带来的价值。你在实际工作中一定遇到过很多这样的例了。
+> 当然，上面的逻辑论断可能不足以说服大家。毕竟，没有什么程序是不可能改变的。然而，现实中有一些系统确实无法更改，因为其实施变更的成本会远远超过变更带来的价值。许多系统在一些特性或者配置方面已经到达这个程度了。
 
 If you ask the business managers if they want to be able to make changes, they’ll say that of course they do, but may then qualify their answer by noting that the current functionality is more important than any later flexibility. In contrast, if the business managers ask you for a change, and your estimated costs for that change are unaffordably high, the business managers will likely be furious that you allowed the system to get to the point where the change was impractical.
 
-> 如果你问业务部门，是否想要能够变更需求，他们的回答一般是肯定的，而且他们会增加一句：完成现在的功能比实现未来的灵活度更重要。但讽刺的是，如果事后业务部门提出了一项需求，而你的预估工作量大大超出他们的预期，这帮家伙通常会对你放任系统混乱到无法变更的状态而勃然大怒。
+> 如果你问业务经理是否想要做出一些改变，他们的回答一般是肯定的，但是他们会增加一句：完成现在的功能比实现未来的灵活度更重要。但讽刺的是，如果事后业务经理提出了一项需求，而你的预估工作量大大超出他们的预期，这帮家伙通常会对你放任系统混乱到无法变更的状态而勃然大怒。
 
 ## EISENHOWER’S MATRIX 艾森豪威尔矩阵
 
@@ -122,11 +122,11 @@ Note that the architecture of the code—the important stuff—is in the top two
 
 The mistake that business managers and developers often make is to elevate items in position 3 to position 1. In other words, they fail to separate those features that are urgent but not important from those features that truly are urgent and important. This failure then leads to ignoring the important architecture of the system in favor of the unimportant features of the system.
 
-> 业务部门与研发人员经常犯的共同错误就是将第三优先级的事情提到第一优先级去做。换句话说，他们没有把真正紧急并且重要的功能和紧急但是不重要的功能分开。这个错误导致了重要的事被忽略了，重要的系统架构问题让位给了不重要的系统行为功能。
+> 业务经理与研发人员经常犯的共同错误就是将第三优先级的事情提到第一优先级去做。换句话说，他们没有把真正紧急并且重要的功能和紧急但是不重要的功能分开。这个错误导致了重要的事被忽略了，重要的系统架构问题让位给了不重要的系统行为功能。
 
 The dilemma for software developers is that business managers are not equipped to evaluate the importance of architecture. That’s what software developers were hired to do. Therefore it is the responsibility of the software development team to assert the importance of architecture over the urgency of features.
 
-> 但研发人员还忘了一点，那就是业务部门原本就是没有能力评估系统架构的重要程度的，这本来就应该是研发人员自己的工作职责！所以，平衡系统架构的重要性与功能的紧急程度这件事，是软件研发人员自己的职责。
+> 但研发人员还忘了一点，那就是业务经理原本就是没有能力评估系统架构的重要程度的，这本来就应该是研发人员自己的工作职责！所以，平衡系统架构的重要性与功能的紧急程度这件事，是软件研发人员自己的职责。
 
 ## FIGHT FOR THE ARCHITECTURE 为好的软件架构而持续斗争
 
